@@ -7,7 +7,6 @@
 
 
 ### Run Client 1 on pc 2 and connect it to the server (pc 1)
-![SS_2 Connect Client1](https://github.com/b202001162/DistributedFileSystem/assets/86399274/821f6aca-0cba-466c-892a-45d1e003a1a9)
 ![image](https://github.com/b202001162/DistributedFileSystem/assets/86399274/f08d0ba0-43dc-4d80-b0bc-f583b6d95783)
 
 
